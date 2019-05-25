@@ -1,0 +1,5 @@
+package com.bridge.dto;
+
+public class User {
+
+}

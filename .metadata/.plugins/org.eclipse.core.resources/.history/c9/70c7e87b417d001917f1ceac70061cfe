@@ -1,0 +1,6 @@
+package com.bridge.api.dto;
+
+public class LoginDto {
+	private String userName;
+	private String passWord;
+}

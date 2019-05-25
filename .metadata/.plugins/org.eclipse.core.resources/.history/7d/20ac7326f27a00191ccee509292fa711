@@ -1,0 +1,11 @@
+package com.bridge.mongo.reposetory;
+
+import org.springframework.data.mongodb.repository.MongoRepository;
+
+import com.bridge.dto.User;
+
+
+
+public interface UserReposetory extends MongoRepository<User, Integer>{
+
+}

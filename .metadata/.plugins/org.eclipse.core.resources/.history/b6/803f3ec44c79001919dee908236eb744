@@ -1,0 +1,5 @@
+package com.bridge.config;
+
+public class MongoDBConfig {
+
+}

@@ -1,0 +1,5 @@
+package com.bridge.api.util;
+
+public class GenerateToken {
+
+}

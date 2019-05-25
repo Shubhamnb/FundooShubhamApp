@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="spring-boot-mongodb-example"/>
+<aop-project name="FundooSpringMongo"/>
+<aop-project name="FundooSpringMongodbExample"/>
+<aop-project name="spring-mongodb"/>
+<aop-project name="spring-mongodb-fundoo-app"/>
+</aop-reference-model>
